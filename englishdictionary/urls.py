@@ -20,3 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('dictionary.urls'))
 ]
+
+#)3-g)gd6nqmq99*4+adr^xvfr_y=uut3j2oqwn5@1h#z@5q!27
